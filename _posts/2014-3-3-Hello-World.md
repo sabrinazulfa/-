@@ -1,9 +1,8 @@
 ---
 layout: post
-title: You're up and running!
 ---
 
-<h1> Hai! Saya Sabrina Zulfa Wahidah. </h1>
+<h3> Hai! Saya Sabrina Zulfa Wahidah. </h3>
 <br> Saya merupakan pelajar dari SMK Telkom Malang.
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
