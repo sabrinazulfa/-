@@ -4,7 +4,7 @@ title: You're up and running!
 ---
 
 <h1> Hai! Saya Sabrina Zulfa Wahidah. </h1>
-<br> Saya merupakan pelajar dari SMK Telkom Malang. </br>
+<br> Saya merupakan pelajar dari SMK Telkom Malang.
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
